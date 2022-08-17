@@ -1,0 +1,13 @@
+table{
+    border: 1px solid black;
+    width: 500px;
+    text-align: center;
+}
+table th{
+    padding: 2px;
+    border: 1px solid black;
+}
+
+.editar{
+	padding-top: 20px;
+}
