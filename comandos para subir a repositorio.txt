@@ -1,0 +1,6 @@
+comando para subir cambios:
+    paso 1: en raiz del proyecto darle click derecho y abrir GITbash
+    paso 2: usar comando "git status" para ver que archivos se modificaron
+    paso 3: usar comando "git add ." para subir archivos
+    paso 4: "git commit -m "Mensaje" ", en "mensaje" escribir que cambios se hicieron para llevar un control del commit.
+    paso 5: usar comando "git push -u origin main" para subir los archivos al repositorio remoto
